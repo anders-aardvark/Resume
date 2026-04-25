@@ -16,7 +16,7 @@ Website: https://aardvark.pm/
 ## Executive Summary
 Product leader with 15+ years across consumer apps, marketplaces, digital health, and connected hardware platforms.  
 Led product strategy and delivery from discovery to global launches, including partner ecosystems and platform consolidation.  
-Built and mentored product teams and introduced outcome-focused product practices.  
+Built and mentored product teams and introduced outcome-focused product practices and principles.  
 Currently consulting as Fractional CPO / Principal PM and leading AI-first delivery practices in regulated enterprise environments.  
 Known for pragmatic operating-model improvements, stakeholder alignment, and turning constraints into shippable plans.  
 Builder at heart — happiest turning ideas into real products in the hands of real users. Curious learner with an AI-first mindset. 
@@ -36,8 +36,8 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 
 **Product Leadership**
 - Portfolio ownership across multiple teams and surfaces (app, backend services, device/embedded interfaces)
-- Team Leadership - Building effective teams and growing PMs (PM mentoring & coaching; hiring and capability building as needed)
-- Product quality standards (discovery, decision-making, delivery hygiene, accountability)
+- Team Leadership - Building effective teams and growing PMs (PM mentoring & coaching; hiring, firing, and capability building as needed)
+- Product quality standards (discovery, decision-making, delivery hygiene, accountability, impact)
 
 **Strategy**
 - Multi-year strategy and roadmap framing under technical debt and governance constraints
@@ -77,10 +77,7 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 ### Rebtel | Principal Product Manager (Consulting) | Stockholm, Sweden | Aug 2025 – Present
 **Scope:** Lead PM for the payments systems — driving improvements in transaction authorisation rates, user conversion, and payment cost reduction. (Outcomes under NDA.)
 - Owning prioritisation across PSP, ledger, wallet, and checkout work in service of auth rate, conversion, and cost outcomes
-- Coordinating with engineering, finance, and commercial stakeholders to balance revenue risk and technical debt
-- Earlier on the engagement: led technical architecture analysis of PSPs, ledgers, wallet and internal credits; produced future-demand plan and incremental delivery plan
-- Scoped and shaped an AI assistant for support workflows (use cases, UX flows, operational constraints)
-- Contributed to process design and implementation for product operating model ways of working
+- Coordinating with engineering, finance, and commercial stakeholders to balance revenue risk and significant technical debt
 
 ### Rebtel | Fractional CPO (Consulting) | Stockholm, Sweden | May 2025 – Aug 2025
 **Scope:** Product leadership across payments, subscriptions, wallet, support AI assistant, web refactoring, product strategy, and operating model work. (Outcomes under NDA.)
@@ -93,11 +90,11 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 ---
 
 ### Electrolux | Group Product Manager | Stockholm, Sweden | Jan 2022 – Dec 2025
-**Scope:** Digital product leadership for the Care vertical (washing machines, tumble dryers, dishwashers) across the Electrolux, AEG and Frigidaire brands. Led and mentored 6 PMs.
-- Led and mentored six Product Managers; introduced product operating model processes including continuous discovery and outcome-focused execution
+**Scope:** Digital product leadership for the Care vertical (washing machines, tumble dryers, dishwashers) across the Electrolux, AEG and Frigidaire brands. Led and mentored a team of five PMs.
+- Led and mentored five Product Managers; introduced product operating model processes including continuous discovery and outcome-focused execution
 - Defined multi-year digital product strategy spanning app UX, backend services, and appliance interfaces
 - Aligned strategy and execution with global business stakeholders across Europe, North America, South America, MENA, and Asia Pacific
-- Led launch of a global multi-brand app and platform, replacing numerous regional apps; grew the Care vertical from zero to 300,000+ users (~800K users across all verticals). All deliveries were on time and without major incidents.
+- Led launch of a global multi-brand app and platform, replacing numerous regional apps; grew the Care vertical from zero to 300,000+ connected users (~800K users across all verticals). All deliveries were on time and without major incidents.
 - App was awarded a Red Dot design award in 2025: https://www.red-dot.org/project/electrolux-app-84873
 - Started a new revenue stream by monetising sales of extended warranties and appliance accessories for the fabric & dish care segment
 - Rebuilt the connected experience for fabric care and dish care appliances in one global app while sunsetting numerous legacy local apps
@@ -109,7 +106,7 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 - Enabled non-mobile engineers to contribute to mobile app code without prior codebase familiarity
 - Evaluated and documented emerging AI tooling; built internal playbooks and enablement for product and engineering teams
 - Designed delivery processes aligned with existing governance; worked closely with domain Directors and VPs (Product/Tech/Design)
-- Tooling: Claude Code, OpenAI APIs, MCP integrations (incl. design tooling)
+- Tooling: Claude Code, OpenAI APIs, Figma, various MCP integrations
 
 ---
 
