@@ -73,13 +73,17 @@ Known for pragmatic operating-model improvements, stakeholder alignment, and tur
 
 ### Electrolux | Group Product Manager | Stockholm, Sweden | 2022 – Present
 **Scope:** Digital product leadership for the Care vertical (washing machines, tumble dryers, dishwashers). Led and mentored 6 PMs.
-- Led and mentored six Product Managers; introduced continuous discovery and outcome-focused execution [TBD metrics]
-- Defined multi-year digital product strategy spanning app UX, backend services, and appliance interfaces [TBD strategy outputs]
-- Led launch of a global multi-brand app and platform, replacing numerous regional apps [TBD migration scale]
-- Coordinated a high-visibility initiative with senior stakeholders across functions
-- Improved user experience, product quality, and scalability through consolidation [TBD metrics]
+- Led and mentored six Product Managers; introduced product operating model processes, including continuous discovery and outcome-focused execution. 
+- Defined multi-year digital product strategy spanning app UX, backend services, and appliance interfaces.
+- Aligned strategy and execution with multiple global business stakeholders across europe, North America, Sount America, MENA, and Asia Pacific
+- Led launch of a global multi-brand app and platform, replacing numerous regional apps, going from zero to over 300 000 users for the Care vertical (~800K users for all verticals). All deliveries were on time and without major incidents.  
+- The app was awarded a Red Dot design award in 2025: https://www.red-dot.org/project/electrolux-app-84873  
+- Started a new revenue stream by monetizing sales of extended warranties and appliance accessories for the fabric & dish care segment. 
+- Rebuilt the entire connected experience of connected home appliances in the fabric care and dish care vertical in one global app, while also and sunsetting numerous legacy local apps. 
+- Improved App Store ratings from 2,02 to 4,32 (which is considered high in the compaction app category)
 
-#### Electrolux | AI Lead PM (assignment within GPM role) | Stockholm, Sweden | [TBD dates]
+
+#### Electrolux | AI Lead PM (assignment within GPM role) | Stockholm, Sweden | 2025
 **Scope:** AI-first delivery approach; onboarding as the primary product surface.
 - Established agentic coding workflow that produced production-grade code aligned to enterprise governance and shipped to real users
 - Enabled non-mobile engineers to contribute to mobile app code without prior codebase familiarity [TBD measured impact]
