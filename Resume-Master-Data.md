@@ -23,12 +23,28 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 
 ---
 
-## Tagline
+## Tagline & Positioning Lines
 
+### Personal tagline (cheeky / builder-coded)
 > Senior product leader, junior AI builder
 
 **Use in:** personal website footer, Twitter/X bio, conference badges, LinkedIn cover banner, the opening line of a personal essay or talk.  
 **Do not use as:** LinkedIn headline (use the formal headline in `LinkedIn.md`), per-position CV summaries, or pitches for fractional CPO consulting.
+
+### Formal positioning headline (consulting / exec-level)
+> Senior product leadership. AI-native by practice.
+
+**Use in:** aardvark.pm hero, exec-level consulting decks, advisor profiles, formal LinkedIn headline.
+
+### Character framing (About / bio)
+> Builder at heart. Operator by trade.
+
+**Use in:** About sections, bio openers, "who I am" framings on personal sites.
+
+### AI-section punchline
+> AI-native. Not in slideware.
+
+**Use in:** AI-specific section titles, talk titles, posts about AI-in-enterprise work.
 
 ---
 
@@ -120,7 +136,7 @@ Builder at heart — happiest turning ideas into real products in the hands of r
 ### Spotify | Product Manager | Stockholm, Sweden | Jan 2017 – Sep 2021
 **Scope:** Wearables vertical (smart watches, hearables, AR/VR) and in-car experience.
 - Defined and executed product strategy across multiple products and surfaces
-- Led global launches including Spotify for Apple Watch, Spotify for WearOS, Spotify for Garmin, Spotify for Fitbit, Spotify OneTouch with Samsung / Microsoft / Bose, and the first Spotify AR experience with Magic Leap
+- Led global launches including Spotify for Apple Watch, Spotify for WearOS, Spotify for Garmin, Spotify for Fitbit, the first Spotify AR experience with Magic Leap, and Spotify OneTouch with Samsung, Microsoft, Bose, Sony, and IKEA
 - Scaled the wearables vertical from >100k users to 10M+ users globally
 - Managed partner interfaces and launch readiness across device ecosystems (commercial + technical constraints), working directly with teams from Google, Facebook, and Amazon
 - Selected media coverage:
@@ -193,7 +209,7 @@ Captured verbatim from LinkedIn.
 
 ## Selected Achievements
 - Scaled a wearables product portfolio from >100k users to 10M+ users globally
-- Delivered multiple global partner launches across major wearable platforms and ecosystems (Apple Watch, WearOS, Garmin, Fitbit, Samsung, Microsoft, Bose, Magic Leap)
+- Delivered multiple global partner launches across major wearable platforms and ecosystems (Apple Watch, WearOS, Garmin, Fitbit, Magic Leap, plus Spotify OneTouch with Samsung, Microsoft, Bose, Sony, and IKEA)
 - Led consolidation to a global, multi-brand app/platform for connected home appliances; grew the Care vertical to 300K+ users on time and without major incidents
 - Improved App Store ratings from 2.0 to 4.3 for the global Electrolux Care app
 - Red Dot design award (2025) for the Electrolux app
