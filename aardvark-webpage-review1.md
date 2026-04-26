@@ -25,7 +25,7 @@ This document is a self-contained brief for the developer/designer iterating on 
 7. Track Record: small wording fix ("Director/CPO advisory, interim leadership").
 8. Contact: rewrite to be tighter and present *two* paths — consulting engagements, and casual "let's chat about cool things" conversations.
 9. Footer: add a LinkedIn link.
-10. Add 2 testimonial pull-quotes with specified placement (filler until 3 fresh ones land — see appendix for the recommendation requests Anders is sending).
+10. Add 2 testimonial pull-quotes with specified placement (filler until 3 fresh ones from senior contacts land — those requests are tracked separately in `actions.md`).
 
 ---
 
@@ -165,35 +165,23 @@ Drop the *"Builder at heart."* opening — it duplicates the About section title
 
 > Title: *Let's talk.*
 >
-> Body: *Whether you're between CPOs, scaling a product org, or trying to make AI ship inside real governance — I'd be glad to hear from you.*
+> Body: *Whether you're between CPOs, scaling a product org, or trying to actually ship AI in a regulated enterprise — I'd be glad to hear from you.*
 >
 > CTA: anders@aardvark.pm →
 
 **v2 changes**
 
 - Keep title.
-- Keep the consulting-framed sentence (it's good).
+- Keep the consulting-framed sentence (rephrased to drop "make AI ship inside real governance" jargon).
 - Add a second short line opening the door for casual conversations about interesting work — *without* using founder / co-founder / building language (those live on the Aardvark Labs site).
 
-**v2 — two voice options. Pick one:**
-
-**Option A — playful, builder-coded**
+**v2 final copy**
 
 > Let's talk.
 >
-> Whether you're between CPOs, scaling a product org, or trying to make AI ship inside real governance — I'd be glad to hear from you.
+> Whether you're between CPOs, scaling a product org, or trying to actually ship AI in a regulated enterprise — I'd be glad to hear from you.
 >
-> Or if you just want to nerd out about AI, products, or interesting ideas — say hi.
->
-> anders@aardvark.pm →
-
-**Option B — measured, exec-recruiter-safe**
-
-> Let's talk.
->
-> Whether you're between CPOs, scaling a product org, or trying to make AI ship inside real governance — I'd be glad to hear from you.
->
-> Always happy to have a conversation about ambitious product or AI work, even if it's exploratory.
+> Or if you just want to nerd out about AI, cool products, or interesting ideas — say hi!
 >
 > anders@aardvark.pm →
 
@@ -247,63 +235,12 @@ Add **two** small pull-quote blocks on the page. Use the existing recommendation
 
 ## Open questions for the implementer
 
-1. **Voice for the new Contact line** — Anders to pick Option A (playful) or Option B (measured) before this ships.
-2. **Pull-quote visual treatment** — confirm the design pattern; the brief assumes a small italic block.
-3. **LinkedIn icon vs text link in footer** — designer's call; both work.
+1. **Pull-quote visual treatment** — confirm the design pattern; the brief assumes a small italic block.
+2. **LinkedIn icon vs text link in footer** — designer's call; both work.
 
 ---
 
-## Appendix A — Recommendation requests Anders is sending
-
-Anders will request three new recommendations from senior contacts. Each is targeted at a *different angle* so the three together cover AI-in-enterprise credibility, fractional/operating-level partnership, and exec-level commercial trust.
-
-These are not for the homepage (which uses the existing pull-quotes above). They will land on Anders's LinkedIn profile and may rotate onto the page once received.
-
----
-
-### A1. Andreas Ceborg — VP Product, Electrolux
-
-**Angle to reinforce:** AI-in-enterprise credibility + senior product leadership at scale. Andreas has seen both the GPM work and the AI Lead PM work; he's the right voice for "this person made AI actually ship inside a regulated enterprise."
-
-**Suggested quote (the kind of thing to ask Andreas to say):**
-
-> "Anders led product for our most critical digital surfaces in the Care vertical, and was the driving force behind our move to AI-native ways of working. He introduced agentic AI workflows into a highly regulated enterprise environment — not as a demo, but in a way that produced production-grade code aligned with our governance and shipped to real users. He's the kind of senior product leader you want when the work is ambitious and the constraints are real."
-
-**Suggested ask message Anders can send:**
-
-> Hi Andreas — I'm refreshing my LinkedIn and consulting positioning around the AI-in-enterprise work, and I'd love a short recommendation from you if you're up for it. The angle I'd really value your voice on is the AI Lead PM work — how we got agentic AI workflows into the enterprise without breaking governance, and that we shipped real code to real users. Two or three sentences is plenty. Happy to send a draft you can edit if it helps.
-
----
-
-### A2. Carl-Johan Hedström — CPO, Rebtel
-
-**Angle to reinforce:** senior PM craft + fractional/principal partnership at the operating level. Carl-Johan sees Anders day-to-day in payments work and is the right voice for "this person operates like a permanent senior leader from week one."
-
-**Suggested quote:**
-
-> "Anders walked into a complex domain like payments and within weeks was operating like he'd been there for years. He raised the bar on our product practice — cadence, decisions, prioritisation — and is now driving the systems-level work on auth rates, conversion, and cost. Fractional senior product leadership at this depth is rare."
-
-**Suggested ask message:**
-
-> Hey Carl-Johan — I'm tightening up my LinkedIn / consulting profile around how I work as a fractional senior PM and CPO. Would mean a lot to get a couple of sentences from you on what it's been like to bring me into Rebtel — particularly around how quickly I've been able to operate at depth on payments and how I've raised the bar on product practice. Happy to send a draft you can shape if useful.
-
----
-
-### A3. Leo Kia — former CEO, Rebtel
-
-**Angle to reinforce:** exec-level trust + business outcomes + strategic clarity. Leo is the voice for "you can put Anders on the toughest commercial questions and trust him to come back with shippable plans."
-
-**Suggested quote:**
-
-> "I brought Anders in initially as Fractional CPO during a critical period for Rebtel, and he very quickly became a trusted exec partner — not just on product, but on strategy and operating model. He brings calm, structure, and strategic clarity to ambiguous problems. The kind of senior product leader you can put on the toughest commercial questions and trust to come back with shippable plans."
-
-**Suggested ask message:**
-
-> Hi Leo — hope you're well. I'm refreshing my consulting positioning and I'd be very grateful for a short LinkedIn recommendation from you if you're open to it. The angle I'd most value your voice on is the exec-level strategic and operating-model work during the Rebtel period — calm under ambiguity, turning hard commercial questions into shippable plans. Happy to send a draft you can edit if that's easier.
-
----
-
-## Appendix B — Things deliberately NOT changed
+## Appendix A — Things deliberately NOT changed
 
 For clarity to the implementer:
 

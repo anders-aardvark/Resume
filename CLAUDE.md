@@ -26,6 +26,8 @@ When generating a derived doc, treat `Resume-Master-Data.md` as the canonical in
 
 - `Resume-Master-Data.md` — generic source of truth. Top comment declares it "citation-free for LLM parsing" — preserve that property. Do not introduce footnote-style citations or reference markers.
 - `LinkedIn.md` — derived doc for LinkedIn (headline, About, visibility posture, experience-update checklist, coaching notes).
+- `aardvark-webpage-review1.md` — derived brief for the team building / refreshing aardvark.pm. Self-contained for handoff. Consulting/exec-level scope only — founder/builder content lives on a future Aardvark Labs site, not here.
+- `actions.md` — Anders's working to-do list for this whole career-refresh project. Holds active actions (e.g., recommendation requests with drafted asks), backlog, and a Done log. Update as items complete; do not let it become stale.
 - `Resources/` — supporting source material (e.g., the latest sent CV PDF). Treat as inputs, not outputs.
 - Future derived docs should use a clear filename pattern (`CV-<company>-<role>.md`, `speaker-<event>.md`, etc.) so the master/derived relationship stays obvious.
 
